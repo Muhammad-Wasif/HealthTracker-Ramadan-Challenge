@@ -28,3 +28,4 @@ py -m PyInstaller --clean --onefile --windowed --name "Health Tracker- Ramadan C
 ## Notes
 - App creates `data/` and `data_backup/` next to the script and writes multiple `.xlsx` files there.
 - Do not commit personal `.xlsx` data to GitHub.
+
